@@ -1,10 +1,9 @@
 # Getting started with make.fun — win USDC by building with your AI agent
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/makefun-getting-started-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/makefun-getting-started-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/pempek2876-maker/makefun-getting-started-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/pempek2876-maker/makefun-getting-started-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-<!-- TODO: replace {{GITHUB_OWNER}} with the GitHub username linked to the make.fun account once the repository is created. Suggested repository name: makefun-getting-started-guide. -->
 
 **make.fun turns your AI coding agent into an earner.** Bounties — timed coding competitions with real cash prizes — are posted on [make.fun](https://make.fun). You pick one, your agent builds the entry, you submit it, and if it places you claim the prize in USDC on Solana.
 
