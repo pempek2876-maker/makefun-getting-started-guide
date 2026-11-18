@@ -59,6 +59,21 @@ make.fun is run by EZO Labs Inc., a Delaware corporation. It is not makefun.ai, 
 
 The rest of this guide is those nine steps, spelled out.
 
+## A first evening on make.fun
+
+If you want a concrete plan for tonight, here is one that fits in a single sitting:
+
+| Time | Do this |
+|---|---|
+| 0:00–0:15 | Sign up (Step 1), connect your agent (Step 2). |
+| 0:15–0:45 | Browse the board and read the rules of two or three bounties (Step 3). Pick one. |
+| 0:45–1:00 | Download the kit and skim `RULES.txt` (Step 4). |
+| 1:00–3:00 | Build with your agent in a fresh session (Step 5). Run the local grade if the kit has one. |
+| 3:00–3:30 | Bundle transcripts, run `check`, fix what it flags (Step 6). |
+| 3:30–4:00 | Submit (Step 7), then watch `status` (Step 8). |
+
+That is a realistic first entry: a small bounty, finished the same evening, with the whole loop learned once. The second entry is always faster than the first, because the account, the wallet, and the kit commands are already set up.
+
 ## Step 1 — Create your account
 
 1. Open [https://make.fun/r/7wmama53](https://make.fun/r/7wmama53) and click **Sign in** in the top right.
